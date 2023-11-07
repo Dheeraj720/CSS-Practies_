@@ -1,0 +1,44 @@
+.box1{
+    height: 3rem;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+}
+.button1{
+    width: 9rem;
+    border: none;
+    background-color: red;
+    color: white;
+}
+.button2{
+    width: 9rem;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+.button3{
+    width: 9rem;
+    background-color: aqua;
+    border: none;
+}
+body{
+    margin: 0;
+}
+.loginbox{
+    height: 22rem;
+    width: 22rem;
+    border: 2px solid black;
+    margin-top: 9rem;
+}
+input{
+    padding: 0.5rem;
+    width: 19rem;
+}
+.button4{
+    border: none;
+    text-align: center;
+    width: 10rem;
+    padding: 0.7rem;
+    background-color: skyblue;
+}

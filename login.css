@@ -1,0 +1,38 @@
+.box1{
+    height: 25rem;
+    width: 29rem;
+    border: 2px solid black;
+    background: rgba(0,0,0,.6);
+    opacity: 33rem;
+    color: white;
+    margin-top: 18rem;
+}
+h3{
+    margin-top: 2rem;
+    color: white;
+}
+body{
+    background-image: url(https://programmingtrick.com/css-assignment/back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.input1{
+    padding: 0.8rem;
+    width: 26rem;
+    font-size: large;
+}
+.input2{
+    padding: 0.8rem;
+    width: 26rem;
+    font-size: large;
+}
+button{
+    padding: 0.7rem;
+    width: 26rem;
+    background: orange;
+    color: white;
+    font-size: 18px ;
+}
+button:hover{
+    background: skyblue;
+}

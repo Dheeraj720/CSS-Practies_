@@ -1,0 +1,24 @@
+.heading1{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: lighter;
+    color: red;
+}
+.heading2{
+    color: white;
+    text-align: center;
+}
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+}
+hr{
+    width: 103rem;
+}
+marquee{
+    font-size: 1rem;
+    color: white;
+}
+img{
+    display: inline;
+}

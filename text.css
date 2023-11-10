@@ -16,7 +16,7 @@ p{
     height: 22rem;
     width: 22rem;
     float: right;
-    position:sticky;
+    position: fixed;
 }
 p:hover{
     background: linear-gradient(blue,aqua);

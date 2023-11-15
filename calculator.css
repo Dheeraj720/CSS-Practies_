@@ -1,0 +1,42 @@
+table{
+    border: 10px solid gray;
+    box-shadow: 3px 4px 4px black;
+    margin-top: 70px;
+    background: gray;
+    width: 290px;
+    height: 350px;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: gray;
+    white-space: normal;
+    font-variant: normal;
+    /* margin-top: 2rem; */
+}
+input{
+    background: rgb(34,195,195);
+    padding: 1rem;
+    box-shadow: 1px 1px white;
+    width: 60px;
+    border-radius: 4px;
+    color: white;
+    font-size: 1rem;
+}
+button:hover{
+    background-color: skyblue;
+}
+#screen{
+    padding: 10px;
+    width: 100%;
+    font-size: 30px;
+    color: black;
+    background: white;
+}
